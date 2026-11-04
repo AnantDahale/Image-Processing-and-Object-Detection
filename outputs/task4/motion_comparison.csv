@@ -1,0 +1,4 @@
+Video Position,Frame Difference Pixels (%),GMM Foreground Pixels (%),Optical Flow Tracked Points,Average Movement (pixels)
+25%,0.04,12.83,100,0.07
+50%,0.36,3.8,99,0.1
+75%,0.42,2.79,100,0.19

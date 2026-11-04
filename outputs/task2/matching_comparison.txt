@@ -1,0 +1,17 @@
+SIFT FEATURE MATCHING COMPARISON
+
+Original Images
+Keypoints in Image 1: 6945
+Keypoints in Image 2: 5605
+Good Matches: 709
+
+Rotated Image
+Keypoints in Image 1: 6945
+Keypoints in Image 2: 5225
+Good Matches: 647
+
+Resized Image
+Keypoints in Image 1: 6945
+Keypoints in Image 2: 7789
+Good Matches: 859
+

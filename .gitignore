@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# YOLO model weights
+*.pt
+
+# Keep original personal dataset files off public GitHub
+dataset/*
+!dataset/README.md
+
+# Video files
+*.mp4
+*.mov
+*.avi

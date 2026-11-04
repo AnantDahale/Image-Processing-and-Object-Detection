@@ -1,0 +1,30 @@
+VIDEO MOTION ESTIMATION REPORT
+==============================
+
+Video duration: 20.79 seconds
+Frame rate: 59.94 FPS
+
+
+VIDEO POSITION: 25%
+Frame Difference Moving Pixels: 0.04%
+GMM Foreground Pixels: 12.83%
+Optical Flow Tracked Points: 100
+Average Optical Flow Movement: 0.07 pixels
+
+VIDEO POSITION: 50%
+Frame Difference Moving Pixels: 0.36%
+GMM Foreground Pixels: 3.80%
+Optical Flow Tracked Points: 99
+Average Optical Flow Movement: 0.10 pixels
+
+VIDEO POSITION: 75%
+Frame Difference Moving Pixels: 0.42%
+GMM Foreground Pixels: 2.79%
+Optical Flow Tracked Points: 100
+Average Optical Flow Movement: 0.19 pixels
+
+TECHNIQUE COMPARISON
+
+1. Frame Differencing compares consecutive frames to identify changes.
+2. GMM Background Subtraction learns the background and identifies foreground objects.
+3. Lucas-Kanade Optical Flow tracks selected feature points and estimates their movement.
